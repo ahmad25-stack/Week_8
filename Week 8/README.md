@@ -17,3 +17,4 @@ This program generates a receipt for customer food orders.
    python main.py
 3. Enter customer information.
 4. The program displays the receipt.
+![all text](demo.gif)
